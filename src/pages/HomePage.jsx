@@ -22,7 +22,7 @@ const HomePage = ({ pages = [] }) => {
           </div>
           
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold bg-gradient-to-r from-indigo-600 via-purple-600 to-blue-600 bg-clip-text text-transparent mb-6 leading-tight">
-            Dynamic Page Creator
+            Page Creator
           </h1>
           
           <p className="text-xl sm:text-2xl text-gray-600 max-w-3xl mx-auto mb-8 leading-relaxed">
